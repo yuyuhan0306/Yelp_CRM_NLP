@@ -13,5 +13,6 @@ Using the Yelp Open Dataset published on September 1, 2017 as our dataset, we co
 (5) The chatbot currently responds with a single reply to the most prominent topic. However, sometimes, customer complaints are mixed problems. We can further improve the chatbot to reply with an appropriate response incorporating multiple solutions. Additionally, the accuracy of the result depends on the volume of the text. Therefore, creating a common word database and tagging those words into certain categories may improve the performance.
 
 We made a Shiny app to visulize the distribution of restaurants, LDA, and chatbot. If you would like to know more about the workflow, concepts, and insights, please feel free to check out our blog post. https://blog.nycdatascience.com/student-works/capstone/real-time-yelp-reviews-analysis-response-solutions-restaurant-owners/
+
 Slides
 https://docs.google.com/presentation/d/1QP6qXirIbS6aCRvcUr1oJglEin3FVzJ5sI9aCQQs-cs/edit?usp=sharing
